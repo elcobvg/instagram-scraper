@@ -20,7 +20,7 @@ $ npm install
 Run this script from the command line:
 
 ``` bash
-$ node scrape -u boomframes
+$ node scrape -u instagramuser
 ```
 
 The following arguments are available:
@@ -32,12 +32,12 @@ The following arguments are available:
 **Example**
 
 ``` bash
-$ node scrape -u boomframes -d ~/Desktop/ig-data --raw
+$ node scrape -u instagramuser -d ~/Desktop/ig-data --raw
 ```
 will result in
 
 ``` bash
-Saved profile /Users/myself/Desktop/ig-data/boomframes.json: 3456.78ms
+Saved profile /Users/myself/Desktop/ig-data/instagramuser.json: 3456.78ms
 ```
 
 
