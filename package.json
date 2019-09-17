@@ -1,0 +1,15 @@
+{
+  "name": "insta-scraper",
+  "version": "0.0.1",
+  "description": "Simple script for scraping public Instagram profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elco Brouwer von Gonzenbach <elco.brouwer@gmail.com> (https://github.com/elcobvg)",
+  "private": "true",
+  "dependencies": {
+    "axios": "0.18.0",
+    "minimist": "1.2.0"
+  }
+}
